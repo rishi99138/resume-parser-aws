@@ -1,0 +1,13 @@
+node_modules/
+package-lock.json
+aws/
+*.zip
+.env
+.env.local
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.tfstate
+*.tfstate.backup
+.terraform/
