@@ -18,7 +18,7 @@ An intelligent serverless application that automatically parses resumes, extract
 Runs completely on AWS Free Tier (1000 Textract pages/month).
 
 ## Live Demo
-[Add your CloudFront URL here]
+https://dcmjz9ryxgbqw.cloudfront.net/
 
 ## Contact
 rishimandal99138@gmail.com
